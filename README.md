@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Shawn, an imaginest, maybe also a system architect one day.
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on dsadbuih :)
 - 🌱 I’m currently learning Rust and database system design.
-- 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: txz2001@163.com
-- ⚡ Fun fact: I really enjoy APEX games.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=merko&count_private=true)
 
