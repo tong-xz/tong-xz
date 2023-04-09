@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Shawn, an imaginest, maybe also a system architect one day.
-- 🔭 I’m currently working on dsadbuih :)
+- 🔭 I’m currently working on System Development :)
 - 🌱 I’m currently learning Rust and database system design.
 - 📫 How to reach me: txz2001@163.com
 
