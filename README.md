@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Shawn, an imaginest, maybe become a system architect one day.
+I'm Shawn, an imaginest.
 - 🔭 I’m currently working on System Development :)
-- 🌱 I’m currently learning Rust and database system design.
+- 🌱 I’m currently learning Rust and operating system design.
 - 📫 How to reach me: txz2001@163.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=merko&count_private=true)
