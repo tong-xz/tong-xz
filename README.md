@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm Shawn, an imaginest.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=merko&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=synthwave&count_private=true)
 
