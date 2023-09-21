@@ -18,3 +18,5 @@ I'm Shawn, an imaginest.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=synthwave&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tong-xz&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tong-xz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
