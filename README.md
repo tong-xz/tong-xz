@@ -18,7 +18,7 @@ I'm Shawn, an imaginest.
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=synthwave&count_private=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tong-xz&show_icons=true&theme=swift&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tong-xz&layout=donut&langs_count=5&hide=html,CSS,makefile" />
