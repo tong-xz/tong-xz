@@ -23,3 +23,6 @@ I'm Shawn, an imaginest.
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tong-xz&layout=donut&langs_count=5&hide=html,CSS,makefile" />
 </a>
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tong-xz)](https://github.com/anuraghazra/github-readme-stats)
