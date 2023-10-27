@@ -25,4 +25,4 @@ I'm Shawn, an imaginest.
 </a>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tong-xz)](https://github.com/anuraghazra/github-readme-stats)
+
