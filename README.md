@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Shawn, an imaginest.
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
