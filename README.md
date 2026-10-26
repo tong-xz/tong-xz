@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-M.Eng. student at Cornell University working on computer vision for agriculture.
 
 **Featured project**
 
